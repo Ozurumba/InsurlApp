@@ -1,2 +1,0 @@
-# InsurlApp
-Created with CodeSandbox
