@@ -1,0 +1,131 @@
+
+/* .App{
+  width: 100%;
+} */
+.left{
+  border: 1px solid green;
+  background-color: #303960;
+  min-height: 100vh;
+}  
+.insurl{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #FFFFFF;
+}
+.link-active{
+  background-color: #F88600;
+  color: white;
+  text-decoration: none;
+}
+.link-inactive {
+  background-color: none;
+  color: white;
+  text-decoration: none;
+  padding: 0.2rem;
+}
+.link-inactive:hover {
+  background-color: #F88600;
+  color: white;
+  text-decoration: none;
+  padding:0.01rem 2rem;
+}
+  .wrapper{
+    border: 1px solid white;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    margin-left: 20px;
+  }
+  .dashboard{
+    color: #FFFFFF;
+  }
+  .policies{
+    color: #FFFFFF;
+  }
+  .profile{
+    color: #FFFFFF;
+  }
+  .withdrawal{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+  }
+  .support{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+  }
+  .settings{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+  }
+  .right{
+   background-color: #F4F8FB;
+  }
+  .policies .span{
+    /* padding-left: 20px; */
+    padding-right: 10px;
+  }
+  .dashboard .span{
+    /* padding-left: 20px; */
+    padding-right: 10px;
+  }
+
+  .policies  a{
+    color: #FFFFFF; 
+    text-decoration: none;
+    
+  }
+  .policies  Button:hover{
+   background-color: #F88600;; 
+  }
+  .dashboard  Button:hover{
+    background-color: #F88600;; 
+   }
+  .dashboard  a{
+    /* background-color: #F88600; */
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+
+  /***** right hand*****/
+
+  .left{
+    border: 1px solid green;
+    background-color: #303960;
+  }
+  .displayright{
+    border: 3px solid purple;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+ 
+  
+  }
+  .spacesbetw{
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+   
+  }
+ 
+  .iconspace{
+    padding-right: 10px;
+  }
+
+   /*AddPayment component */
+.cards{
+  width: 60%;
+}
+
+
+@media screen and (max-width: 900px) {
+  .cards{
+    width: auto;
+    margin: 10px 0px;
+  }
+}
+  
+  
