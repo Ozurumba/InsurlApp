@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import styled, { css } from "styled-components";
 import MaterialCommunityIconsIcon from "react-native-vector-icons/dist/MaterialCommunityIcons";
 import IoniconsIcon from "react-native-vector-icons/dist/Ionicons";
+import  Styles from './styles';
 
 
 

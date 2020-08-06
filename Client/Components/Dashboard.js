@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import styled, { css } from "styled-components";
-import MaterialCommunityIconsIcon from "react-native-vector-icons/dist/MaterialCommunityIcons";
-import SimpleLineIconsIcon from "react-native-vector-icons/dist/SimpleLineIcons";
-import FontAwesomeIcon from "react-native-vector-icons/dist/FontAwesome";
-import FeatherIcon from "react-native-vector-icons/dist/Feather";
-import IoniconsIcon from "react-native-vector-icons/dist/Ionicons";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import MaterialCommunityIconsIcon from "react-native-vector-icons/dist/MaterialCommunityIcons";
+// import SimpleLineIconsIcon from "react-native-vector-icons/dist/SimpleLineIcons";
+// import FontAwesomeIcon from "react-native-vector-icons/dist/FontAwesome";
+// import FeatherIcon from "react-native-vector-icons/dist/Feather";
+// import IoniconsIcon from "react-native-vector-icons/dist/Ionicons";
 
 function Dashboard(props) {
   return (
